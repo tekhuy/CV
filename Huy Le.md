@@ -1,5 +1,5 @@
 # Huy Le
-A Detective who has been desperately seeking his calling and has found it in the Tech world. I have solved hundreds of serious and complex investigations and have helped thousands of people through difficult situations. I want to create something that can help many people worldwide. 
+A Detective who has been seeking his calling and has found it in the Tech world. I have solved numerous serious and complex investigations and have helped hundreds of people through difficult situations. I want to create something that can help people all over the world. 
 
 ## Skills
 
