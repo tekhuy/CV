@@ -144,7 +144,7 @@ Week 4 (Database Web Apps in Ruby Using Sinatra)
 
 ####Projects:
 
-  - [ ] [Bookmark Manager](https://github.com/makersacademy/course/blob/master/bookmark_manager.md) (Weekday Project)
+  - [x] [Bookmark Manager](https://github.com/makersacademy/course/blob/master/bookmark_manager.md) (Weekday Project)
 
         - Learning how to use relational databases
 
@@ -167,9 +167,9 @@ Week 5 (JavaScript Core)
 
 ####Projects:
 
-  - [ ] FizzBuzz JS (Weekday Project)
+  - [x] FizzBuzz JS (Weekday Project)
 
-  - [ ] Thermostat JS (Weekday Project)
+  - [x] Thermostat JS (Weekday Project)
 
   - [ ] [Up Your Alley (Polyglot Badge)](https://github.com/makersacademy/bowling-challenge) (Friday Challenge)
 
@@ -181,7 +181,10 @@ Week 6 (Lab Week)
 --------
 
 ####Technologies Used:
-  - You tell us
+  - [Ruby](https://www.ruby-lang.org)
+  - [Rails](http://rubyonrails.org/)
+  - [Meteor](https://www.meteor.com/)
+  - [nodejs](http://nodejs.org/)
 
 Week 7 (Node)
 -------
@@ -205,7 +208,7 @@ Week 7 (Node)
 
         - consuming the Github API
 
-  - [ ] [Ruby Refresher](https://github.com/makersacademy/ruby-refresher)
+  - [x] [Ruby Refresher](https://github.com/makersacademy/ruby-refresher)
         - A brush up on your ruby skills
 
 ![Sentry](./images/badges/Sentry_thumb.jpg)
