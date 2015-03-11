@@ -40,19 +40,13 @@ Learned cutting edge coding techniques and best practices from world class devel
 ### Imperial College, University of London - 2002 to 2003
 
 - MSc Cognitive Neuroscience (Merit) (2002 - 2003)
-
 #### Publication
 - GRESTY MA, GOLDING JF, LE H, NIGHTINGALE K. Cognitive impairment by spatial disorientation. Aviat Space Environ Med. 2008 Feb;79(2):105-11.
 
-
-
-
-Not sure whether to include....
+### Imperial College, University of London - 1999 to 2002
 
 - BSc Biology (2:2) (1999 - 2002)
 - President of 22 Club (Alumni Association) (2001 - 2002)
 - RAG Officer for Rugby Club (2000 - 2001)
 - Rugby Club Social Secretary (2000 - 2001)
 - Rugby Club Tour Manager (2001 - 2002)
-
-
