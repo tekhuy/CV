@@ -214,13 +214,41 @@ Week 8 (Makerthon)
 --------
 
 ####Technologies Used:
-  - You tell us!
+- [Javascript](http://www.w3schools.com/js/)
+- [JQuery](http://jquery.com/)
+- [HTML](http://www.w3schools.com/html/)
+- [CSS](http://www.w3schools.com/css/)
+- [nodejs](http://nodejs.org/)
+- [Socket.io](http://socket.io/)
+- [CoffeeScript](http://coffeescript.org/)
+- [Mocha](https://github.com/mochajs/mocha)
+- [Casper](http://casperjs.org/)
+- [Chai](http://chaijs.com/)
+- [Grunt](http://gruntjs.com/)
+- [Jasmine](http://jasmine.github.io/)
 
-####Projects:
+####Makopolis
 
-  - [ ] Makerthon
+####What is it? 
+Simple Board Game - with ruby questions
+[Makopolis Live Version](makopolis.herokuapp.com)  (hosted on heroku)  
 
-        - Small Team Projects.
+####code climate
+[![Code Climate](https://codeclimate.com/github/sandagolcea/Makopolis/badges/gpa.svg)](https://codeclimate.com/github/sandagolcea/Makopolis)  
+[![Test Coverage](https://codeclimate.com/github/sandagolcea/Makopolis/badges/coverage.svg)](https://codeclimate.com/github/sandagolcea/Makopolis)
+
+####Why?
+We built a coding based board game for our Makerthon Challenge, so that people might learn something about Ruby and have fun whilst doing it!
+
+####screenshot
+![Makopolis](/Makopolis.png?raw=true "Makopolis board game")
+
+####Contributors
+[Steph Oldcorn](https://github.com/stepholdcorn)  
+[Oliver Lucas](https://github.com/olucas92)  
+[Luke Clewlow](https://github.com/lukeclewlow)  
+[Huy Le](https://github.com/tekhuy)  
+[Sanda](https://github.com/sandagolcea)
 
 Week 9 (Rails)
 --------
@@ -252,21 +280,48 @@ Week 10 + 11
 ------------
 
 ####Technologies Used:
+  - [Ruby](https://www.ruby-lang.org)
+  - [Rails](http://rubyonrails.org/)
+  - [Javascript](http://www.w3schools.com/js/)
+  - [JQuery](http://jquery.com/)
+  - [HTML](http://www.w3schools.com/html/)
+  - [CSS](http://www.w3schools.com/css/)
+  - [Devise](https://github.com/plataformatec/devise)
+  - [Omniauth](https://github.com/intridea/omniauth)
+  - [RSpec](https://relishapp.com/rspec)
+  - [Cucumber](http://cukes.info/)
+  - [Capybara](https://github.com/jnicklas/capybara)
+  - [PostgreSQL](http://www.postgresql.org/)
+  - [Google Maps](https://developers.google.com/maps/)
+  - [Elasticsearch](http://www.elasticsearch.org)
 
-  - Ruby
-  - Rails
-  - RSpec
-  - Cucumber
-  - HTML
-  - CSS
-  - jQuery
-  - Google Maps API
-  - elasticsearch API
-  - PostgreSQL
+####One Day Experience
 
-####Projects
+This is a project for [One Day from openIDEO](https://openideo.com/challenge/youth-employment-pathways/ideas/one-day).
+
+##What does it do?
+It connects young people searching for a job inspiration with professionals that are ready to share their passion for a one-day in-work experience
+
+##Live Version
+[hosted on heroku](https://one-day-xp.herokuapp.com/)*
+*will be updated soon
+
+####code climate
+[![Code Climate](https://codeclimate.com/github/emilysas/One_Day_Experience_Prototype/badges/gpa.svg)](https://codeclimate.com/github/emilysas/One_Day_Experience_Prototype) 
+[![Test Coverage](https://codeclimate.com/github/emilysas/One_Day_Experience_Prototype/badges/coverage.svg)](https://codeclimate.com/github/emilysas/One_Day_Experience_Prototype) 
+[![Inline docs](http://inch-ci.org/github/emilysas/One_Day_Experience_Prototype.svg?branch=master)](http://inch-ci.org/github/emilysas/One_Day_Experience_Prototype)
+
+####Why?
+We built a coding based board game for our Makerthon Challenge, so that people might learn something about Ruby and have fun whilst doing it!
 
   - [x] [One Day Experience](https://github.com/tekhuy/One_Day_Experience_Prototype)
+
+####Contributors
+[Johnathan Lakin](https://github.com/jjlakin)
+[Luke Clewlow](https://github.com/lukeclewlow)  
+[Huy Le](https://github.com/tekhuy)  
+[Sanda](https://github.com/sandagolcea)
+[Emily Sas](https://github.com/emilysas)
 
 
 Week 12
