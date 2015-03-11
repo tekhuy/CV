@@ -35,7 +35,7 @@ Learned cutting edge coding techniques and best practices from world class devel
 - Rspec, Jasmine, Mocha, Cucumber
 
 
-#####A Summary repository of my projects and experiences at Makers Academy can be found [HERE](https://github.com/tekhuy/CV/Course Review/README.md)
+#####A Summary repository of my projects and experiences at Makers Academy can be found [HERE](https://github.com/tekhuy/CV/Course Review)
 
 ### Imperial College, University of London - 2002 to 2003
 
