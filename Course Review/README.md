@@ -315,13 +315,9 @@ We built a coding based board game for our Makerthon Challenge, so that people m
 
 ####Contributors
 [Huy Le](https://github.com/tekhuy)
-
 [Johnathan Lakin](https://github.com/jjlakin)
-
 [Luke Clewlow](https://github.com/lukeclewlow)
-
-[Emily Sas](https://github.com/emilysas)  
-
+[Emily Sas](https://github.com/emilysas)
 [Sanda Golcea](https://github.com/sandagolcea)
 
 
