@@ -240,9 +240,6 @@ Simple Board Game - with ruby questions
 ####Why?
 We built a coding based board game for our Makerthon Challenge, so that people might learn something about Ruby and have fun whilst doing it!
 
-####screenshot
-![Makopolis](/Makopolis.png?raw=true "Makopolis board game")
-
 ####Contributors
 [Steph Oldcorn](https://github.com/stepholdcorn)  
 [Oliver Lucas](https://github.com/olucas92)  
@@ -320,7 +317,7 @@ We built a coding based board game for our Makerthon Challenge, so that people m
 [Johnathan Lakin](https://github.com/jjlakin)
 [Luke Clewlow](https://github.com/lukeclewlow)  
 [Huy Le](https://github.com/tekhuy)  
-[Sanda](https://github.com/sandagolcea)
+[Sanda Golcea](https://github.com/sandagolcea)
 [Emily Sas](https://github.com/emilysas)
 
 
