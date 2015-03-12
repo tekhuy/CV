@@ -303,8 +303,8 @@ This is a project for [One Day from openIDEO](https://openideo.com/challenge/you
 It connects young people searching for a job inspiration with professionals that are ready to share their passion for a one-day in-work experience
 
 ##Live Version
-[hosted on heroku](https://one-day-xp.herokuapp.com/)*
-*will be updated soon
+[One Day Experience](https://one-day-xp.herokuapp.com/)*
+
 
 ####code climate
 [![Code Climate](https://codeclimate.com/github/emilysas/One_Day_Experience_Prototype/badges/gpa.svg)](https://codeclimate.com/github/emilysas/One_Day_Experience_Prototype) 
@@ -326,4 +326,3 @@ We built a coding based board game for our Makerthon Challenge, so that people m
 
 Week 12
 ---------
-
