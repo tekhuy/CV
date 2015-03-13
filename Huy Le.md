@@ -3,8 +3,6 @@ A Detective who has been seeking his calling and has found it in the Tech world.
 
 ## Skills
 
-### Public Speaking
-
 ### Ruby
 
 ### Javascript
